@@ -31,7 +31,7 @@
 <br>
 
 ## Technologies 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
 &nbsp;
@@ -58,7 +58,7 @@
   
 <br>
 
-## Contact Me 📩
+## Reach Me 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/mehmet-dogukan-hicyilmaz/)
 &nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='40'>](https://www.instagram.com/dgkn0472/)
