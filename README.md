@@ -3,7 +3,7 @@
 
 ## About Me
 
-  As an enthusiastic programmer, I'm now working toward a degree in computer engineering. In addition to my academics, I actively pursue research, keep improving my abilities, and support creative solutions. I commit myself to pursuing personal growth in both my academic and social lives in order to succeed as a sought-after engineer in this quickly changing sector.
+  As a recent graduate with a degree in Computer Engineering, I am an enthusiastic programmer committed to advancing both my professional skills and knowledge. I actively engage in research, continuously enhance my abilities, and support innovative solutions. My dedication to personal growth spans both my professional and social engagements, all with the goal of excelling as a highly sought-after engineer in this rapidly evolving field.
 <br>
 <br>
 <br>
